@@ -15,7 +15,20 @@
 
 ### Python
 
+* [Fairness comparison](https://github.com/algofairness/fairness-comparison)
+* [AIF360](https://github.com/ibm/aif360)
+* [Themis ML](https://github.com/cosmicBboy/themis-ml)
+* [FairML](https://github.com/adebayoj/fairml)
+* [Themis](https://github.com/LASER-UMASS/Themis)
+* [FairSquare](https://github.com/sedrews/fairsquare)
+* [FairTest](https://github.com/columbia/fairtest)
+* [Aequitas](https://github.com/sakshiudeshi/Aequitas)
+* [Aequitas](https://dsapp.uchicago.edu/projects/aequitas/)
+* [What If Tool](https://github.com/tensorflow/tensorboard/tree/master/tensorboard/plugins/interactive_inference)
+
 ### R
+
+(To be added.)
 
 ## Organizations, workgroups and conferences
 
