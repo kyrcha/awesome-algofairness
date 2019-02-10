@@ -1,4 +1,4 @@
-# Awesome Fair ML [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Fair Algorithm [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of awesome algorithmic fairness resources.
 
