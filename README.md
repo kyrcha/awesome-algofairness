@@ -9,7 +9,9 @@
 
 ## Tutorials and examples
 
-## Research papers
+- [Attacking discrimination with smarter machine learning](http://research.google.com/bigpicture/attacking-discrimination-in-ml/)
+
+## Selection of research papers
 
 ## Software packages
 
@@ -35,7 +37,7 @@
 
 ### Corporation research programs
 
-* IBM [Trusted AI](https://www.research.ibm.com/artificial-intelligence/trusted-ai/), which hosts
+* IBM [Trusted AI](https://www.research.ibm.com/artificial-intelligence/trusted-ai/)
 * Google Brain [Pair (People + AI Research)](https://ai.google/research/teams/brain/pair)
 
 ### Academic research centers
