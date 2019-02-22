@@ -17,6 +17,7 @@
 
 * [Fairness comparison](https://github.com/algofairness/fairness-comparison)
 * [AIF360](https://github.com/ibm/aif360)
+* [BlackBoxAuditing](https://github.com/algofairness/BlackBoxAuditing)
 * [Themis ML](https://github.com/cosmicBboy/themis-ml)
 * [FairML](https://github.com/adebayoj/fairml)
 * [Themis](https://github.com/LASER-UMASS/Themis)
