@@ -63,7 +63,7 @@
 
 * [AlgorithmWatch](AlgorithmWatch)
 
-### Conferences
+### Conferences and workshops
 
 * [ACM FAT*](https://fatconference.org/)
 * [AI Now Symposium](https://symposium.ainowinstitute.org/)
