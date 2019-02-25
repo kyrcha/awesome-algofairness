@@ -61,6 +61,7 @@
 * [ACM FAT*](https://fatconference.org/)
 * [AI Now Symposium](https://symposium.ainowinstitute.org/)
 * [FAT/ML](http://www.fatml.org/)
+* [FairWare](http://fairware.cs.umass.edu/index.html)
 
 ## Contribute
 
