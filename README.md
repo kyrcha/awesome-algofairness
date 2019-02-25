@@ -11,6 +11,9 @@
 
 - [Attacking discrimination with smarter machine learning](http://research.google.com/bigpicture/attacking-discrimination-in-ml/)
 
+## Guideline, Principle and Practices
+ * [Google AI - Responsible AI Practices](https://ai.google/education/responsible-ai-practices)
+
 ## Selection of research papers
 
 ## Software packages
