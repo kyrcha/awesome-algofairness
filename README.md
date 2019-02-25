@@ -6,6 +6,7 @@
 
 - [Machine Bias](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing)
 - [Tutorial: 21 fairness definitions and their politics](https://youtu.be/jIXIuYdnyyk)
+- [NIPS 2017 Fairness In Machine Leaning](https://nips.cc/Conferences/2017/Schedule?showEvent=8734). ([Video](https://vimeo.com/248490141)), ([Slides](http://fairml.how/tutorial/#/))
 
 ## Tutorials and examples
 
