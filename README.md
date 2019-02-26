@@ -97,6 +97,29 @@
 10. Disability status :: [Rehabilitation Act of 1973](https://en.wikipedia.org/wiki/Rehabilitation_Act_of_1973)
 11. Veteran status :: [Vietnam Era Veterans' Readjustment Assistance Act](https://en.wikipedia.org/wiki/Vietnam_Era_Veterans%27_Readjustment_Assistance_Act), [Uniformed Services Employment and Reemployment Rights Act](https://en.wikipedia.org/wiki/Uniformed_Services_Employment_and_Reemployment_Rights_Act).
 13. Genetic information :: [enetic Information Nondiscrimination Act](https://en.wikipedia.org/wiki/Genetic_Information_Nondiscrimination_Act)
+### Taiwan
+#### Regulated Domains
+##### Employment 
+1. [Employment Service Act](https://law.moj.gov.tw/ENG/LawClass/LawAll.aspx?pcode=N0090001) (就業服務法)
+2. [Act of Gender Equality in Employment](https://law.moj.gov.tw/ENG/LawClass/LawAll.aspx?pcode=N0030014) (性別平等工作法)
+#### Legally recognized 'protected classes'
+1. 種族 :: [Employment Service Act](https://law.moj.gov.tw/ENG/LawClass/LawAll.aspx?pcode=N0090001)
+2. 階級 :: [Employment Service Act](https://law.moj.gov.tw/ENG/LawClass/LawAll.aspx?pcode=N0090001)
+3. 語言 :: [Employment Service Act](https://law.moj.gov.tw/ENG/LawClass/LawAll.aspx?pcode=N0090001)
+4. 思想 :: [Employment Service Act](https://law.moj.gov.tw/ENG/LawClass/LawAll.aspx?pcode=N0090001)
+5. 宗教 :: [Employment Service Act](https://law.moj.gov.tw/ENG/LawClass/LawAll.aspx?pcode=N0090001)
+6. 黨派 :: [Employment Service Act](https://law.moj.gov.tw/ENG/LawClass/LawAll.aspx?pcode=N0090001)
+7. 籍貫 :: [Employment Service Act](https://law.moj.gov.tw/ENG/LawClass/LawAll.aspx?pcode=N0090001)
+8. 出生地 :: [Employment Service Act](https://law.moj.gov.tw/ENG/LawClass/LawAll.aspx?pcode=N0090001)
+9. 性別 :: [Employment Service Act](https://law.moj.gov.tw/ENG/LawClass/LawAll.aspx?pcode=N0090001)), [Act of Gender Equality in Employment](https://law.moj.gov.tw/ENG/LawClass/LawAll.aspx?pcode=N0030014)
+10. 性傾向 :: [Employment Service Act](https://law.moj.gov.tw/ENG/LawClass/LawAll.aspx?pcode=N0090001)
+11. 年齡 :: [Employment Service Act](https://law.moj.gov.tw/ENG/LawClass/LawAll.aspx?pcode=N0090001)
+12. 婚姻 :: [Employment Service Act](https://law.moj.gov.tw/ENG/LawClass/LawAll.aspx?pcode=N0090001)
+13. 容貌/五官 :: [Employment Service Act](https://law.moj.gov.tw/ENG/LawClass/LawAll.aspx?pcode=N0090001)
+14. 身心障礙 :: [Employment Service Act](https://law.moj.gov.tw/ENG/LawClass/LawAll.aspx?pcode=N0090001)
+15. 星座 :: [Employment Service Act](https://law.moj.gov.tw/ENG/LawClass/LawAll.aspx?pcode=N0090001)
+16. 血型 :: [Employment Service Act](https://law.moj.gov.tw/ENG/LawClass/LawAll.aspx?pcode=N0090001)
+17. 以往工會會員身分 :: ([Employment Service Act](https://law.moj.gov.tw/ENG/LawClass/LawAll.aspx?pcode=N0090001)
 
 ## Contribute
 
