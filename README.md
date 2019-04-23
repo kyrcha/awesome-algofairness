@@ -34,6 +34,7 @@
 * [FairTest](https://github.com/columbia/fairtest)
 * [Aequitas](https://github.com/sakshiudeshi/Aequitas)
 * [Aequitas](https://dsapp.uchicago.edu/projects/aequitas/)
+* [AuditAI](https://github.com/pymetrics/audit-ai])
 * [What If Tool](https://github.com/tensorflow/tensorboard/tree/master/tensorboard/plugins/interactive_inference)
 
 ### R
