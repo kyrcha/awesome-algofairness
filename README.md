@@ -67,6 +67,7 @@
 ### Conferences and workshops
 
 * [ACM FAT*](https://fatconference.org/)
+* [AIES](http://www.aies-conference.com/)
 * [AI Now Symposium](https://symposium.ainowinstitute.org/)
 * [FAT/ML](http://www.fatml.org/)
 * [FairWare](http://fairware.cs.umass.edu/index.html)
