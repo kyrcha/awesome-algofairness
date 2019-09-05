@@ -10,9 +10,11 @@
 - [A Tutorial on Fairness in Machine Learning](https://towardsdatascience.com/a-tutorial-on-fairness-in-machine-learning-3ff8ba1040cb)
 - [Attacking discrimination with smarter machine learning](http://research.google.com/bigpicture/attacking-discrimination-in-ml/)
 - [Google Developers ML Fairness Overview](https://developers.google.com/machine-learning/fairness-overview/)
+- [Google Developers ML Crash Course Fairness](https://developers.google.com/machine-learning/crash-course/fairness/video-lecture)
 
-## Tutorials and examples
+## Tutorials
 
+* [AIF360 Tutorials](http://aif360.mybluemix.net/resources#tutorials)
 
 ## Guideline, Principle and Practices
 
@@ -20,12 +22,16 @@
 
 ## Selection of research papers
 
-## Software packages
+## Software and data sets
+
+### Visualization
+
+* [Facets](https://pair-code.github.io/facets/)
 
 ### Python
 
 * [Fairness comparison](https://github.com/algofairness/fairness-comparison)
-* [AIF360](https://github.com/ibm/aif360)
+* [AI Fairness 360 Open Source Toolkit](http://aif360.mybluemix.net/)
 * [BlackBoxAuditing](https://github.com/algofairness/BlackBoxAuditing)
 * [Themis ML](https://github.com/cosmicBboy/themis-ml)
 * [FairML](https://github.com/adebayoj/fairml)
@@ -37,10 +43,6 @@
 * [AuditAI](https://github.com/pymetrics/audit-ai)
 * [What If Tool](https://github.com/tensorflow/tensorboard/tree/master/tensorboard/plugins/interactive_inference)
 
-### R
-
-(To be added.)
-
 ## Datasets
 
 * [COMPAS Recidivism Risk](https://www.propublica.org/datastore/dataset/compas-recidivism-risk-score-data-and-analysis) ([GitHub](https://github.com/propublica/compas-analysis))
@@ -50,6 +52,9 @@
 * [SAT](http://www.fairness-measures.org/Pages/Datasets/SAT.html)
 * [PSU-Chile](http://www.fairness-measures.org/Pages/Datasets/SATChile.html)
 * [SOEP](http://www.fairness-measures.org/Pages/Datasets/SOEP.html)
+* [MEPS](https://meps.ahrq.gov/mepsweb/) (Medical Expenditure Panel Survey)
+* [The Dutch Virtual Census of 2001 - IPUMS Subset](https://microdata.worldbank.org/index.php/catalog/2102/study-description)
+* [Law School Admissions Council’s National Longitudinal Bar Passage Study](https://files.eric.ed.gov/fulltext/ED469370.pdf)
 
 ## Organizations, workgroups and conferences
 
