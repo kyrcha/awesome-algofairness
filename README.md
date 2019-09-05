@@ -8,15 +8,15 @@
 - [Tutorial: 21 fairness definitions and their politics](https://youtu.be/jIXIuYdnyyk)
 - [NIPS 2017 Fairness In Machine Leaning](https://nips.cc/Conferences/2017/Schedule?showEvent=8734). ([Video](https://vimeo.com/248490141)), ([Slides](http://fairml.how/tutorial/#/))
 - [A Tutorial on Fairness in Machine Learning](https://towardsdatascience.com/a-tutorial-on-fairness-in-machine-learning-3ff8ba1040cb)
+- [Attacking discrimination with smarter machine learning](http://research.google.com/bigpicture/attacking-discrimination-in-ml/)
+- [Google Developers ML Fairness Overview](https://developers.google.com/machine-learning/fairness-overview/)
 
 ## Tutorials and examples
 
-- [Machine Bias](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing)
-- [Attacking discrimination with smarter machine learning](http://research.google.com/bigpicture/attacking-discrimination-in-ml/)
-- [Tutorial: 21 fairness definitions and their politics](https://youtu.be/jIXIuYdnyyk)
 
 ## Guideline, Principle and Practices
- * [Google AI - Responsible AI Practices](https://ai.google/education/responsible-ai-practices)
+
+* [Google AI - Responsible AI Practices](https://ai.google/education/responsible-ai-practices)
 
 ## Selection of research papers
 
@@ -43,7 +43,13 @@
 
 ## Datasets
 
-* [Data and analysis for 'Machine Bias'](https://github.com/propublica/compas-analysis)
+* [COMPAS Recidivism Risk](https://www.propublica.org/datastore/dataset/compas-recidivism-risk-score-data-and-analysis) ([GitHub](https://github.com/propublica/compas-analysis))
+* [Statlog German Credit Data](https://archive.ics.uci.edu/ml/datasets/Statlog+(German+Credit+Data))
+* [Default of credit card clients](https://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients)
+* [Census Income](http://archive.ics.uci.edu/ml/datasets/Census+Income) (same as [Adult](https://archive.ics.uci.edu/ml/datasets/adult))
+* [SAT](http://www.fairness-measures.org/Pages/Datasets/SAT.html)
+* [PSU-Chile](http://www.fairness-measures.org/Pages/Datasets/SATChile.html)
+* [SOEP](http://www.fairness-measures.org/Pages/Datasets/SOEP.html)
 
 ## Organizations, workgroups and conferences
 
